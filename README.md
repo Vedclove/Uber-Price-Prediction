@@ -1,1 +1,1 @@
-# Uber-Price-Prediction
+# Uber Price Prediction
